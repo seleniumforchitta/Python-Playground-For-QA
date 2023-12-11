@@ -5,8 +5,8 @@ book['rama'] = {
     'address': 'Bangalore, Karnataka',
     'phone': 9898989898
 }
-book['Ambuja'] = {
-    'name': 'Ambuja',
+book['Sita'] = {
+    'name': 'Sita',
     'address': 'Mysore, Karnataka',
     'phone': 7979797979
 }

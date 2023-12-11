@@ -4,11 +4,11 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
-service_obj = Service("C:/ramARANJAN _SWAIN_D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
+service_obj = Service("C:/Abhishek  _Mishra _D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
 driver = webdriver.Chrome(service=service_obj)
 driver.get("https://rahulshettyacademy.com/dropdownsPractise/")
 driver.maximize_window()
-# driver.find_element_by_name("name").send_keys("ramaranjan Swain")
+# driver.find_element_by_name("name").send_keys("Abhishek  Mishra ")
 driver.find_element(By.XPATH, "//input[@id='autosuggest']").send_keys("ind")
 time.sleep(2)
 countries = driver.find_elements(By.XPATH, "//li[@class='ui-menu-item']/a")

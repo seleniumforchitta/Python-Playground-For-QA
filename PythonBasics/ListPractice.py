@@ -1,15 +1,15 @@
-chit = ["ramaranjan", "Cuttack", 32, 10, '23LPA']
+chit = ["Abhishek ", "Bangalore", 32, 10, '23LPA']
 chit.insert(0, "Mr.")  # Inserts at the 0th place
-print(chit)  # ['Mr.', 'ramaranjan', 'Cuttack', 32, 10, '23LPA']
+print(chit)  # ['Mr.', 'Abhishek ', 'Bangalore', 32, 10, '23LPA']
 chit.append("Maersk")  # Appends at the end
-print(chit)  # ['Mr.', 'ramaranjan', 'Cuttack', 32, 10, '23LPA', 'Maersk']
+print(chit)  # ['Mr.', 'Abhishek ', 'Bangalore', 32, 10, '23LPA', 'Maersk']
 chit.pop()  # Removes the last element
-print(chit)  # ['Mr.', 'ramaranjan', 'Cuttack', 32, 10, '23LPA']
-print(chit.count("Cuttack"))  # 1
+print(chit)  # ['Mr.', 'Abhishek ', 'Bangalore', 32, 10, '23LPA']
+print(chit.count("Bangalore"))  # 1
 chit.remove(10)  # It removes the mentioned element form the list
-print(chit)  # ['Mr.', 'ramaranjan', 'Cuttack', 32, '23LPA']
+print(chit)  # ['Mr.', 'Abhishek ', 'Bangalore', 32, '23LPA']
 chit.reverse()  # It reverses all the element
-print(chit)  # ['23LPA', 32, 'Cuttack', 'ramaranjan', 'Mr.']
+print(chit)  # ['23LPA', 32, 'Bangalore', 'Abhishek ', 'Mr.']
 print(chit.index(32))  # It gives the index of the element
 chit.clear()  # It empties the list
 print(chit)  # []

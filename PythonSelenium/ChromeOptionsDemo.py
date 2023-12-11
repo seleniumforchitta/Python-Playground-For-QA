@@ -11,7 +11,7 @@ chrome_Options.add_argument("headless")
 chrome_Options.add_argument("--ignore-certificate-errors")
 
 # How to give chrome option knowledge to driver. Like below
-service_obj = Service("C:/ramARANJAN _SWAIN_D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
+service_obj = Service("C:/Abhishek  _Mishra _D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
 driver = webdriver.Chrome(service=service_obj,options=chrome_Options)
 
 

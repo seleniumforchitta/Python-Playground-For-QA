@@ -11,12 +11,12 @@
 
 import os
 
-#os.mkdir("C:\ramARANJAN _SWAIN_D_Drive\Test7")
-op = open("C:\ramARANJAN _SWAIN_D_Drive\Test.txt", 'w')
+#os.mkdir("C:\Abhishek  _Mishra _D_Drive\Test7")
+op = open("C:\Abhishek  _Mishra _D_Drive\Test.txt", 'w')
 str = "Test Automation"
 op.write(str)
 # str1 = ""
-op1 = open("C:\ramARANJAN _SWAIN_D_Drive\Test.txt", 'r')
+op1 = open("C:\Abhishek  _Mishra _D_Drive\Test.txt", 'r')
 str1 = op1.read()
 
 

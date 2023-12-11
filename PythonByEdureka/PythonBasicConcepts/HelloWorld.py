@@ -1,6 +1,6 @@
 print("Hello World")
 
-city = "cuttack"
+city = "Bangalore"
 num1 = 67
 num2 = 56.50
 

@@ -7,7 +7,7 @@ GreetMe()
 
 
 # Parameterized Function
-def GreetMe1(name = "Ambuja"):
+def GreetMe1(name = "Sita"):
     print("Good Morning!", name)
     # Function Call
 
@@ -18,6 +18,6 @@ def AddInt(a, b):
     # Function Call
 
 
-GreetMe1("ramaranjan Swain")
+GreetMe1("Abhishek  Mishra ")
 GreetMe1()
 print(AddInt(1010, 2022))

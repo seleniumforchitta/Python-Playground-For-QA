@@ -11,7 +11,7 @@ mylist = [2, 3, 4, 5, 6]
 mytuple = (2, 3, 4, 5, 7)
 mydict = {1: 3, 2: 34, 3: 45, 4: 56}
 myset = {2, 3, 4, 4, 5, 6}
-mystr = "ramaranjan Swain"
+mystr = "Abhishek  Mishra "
 
 print(mylist)
 print(mytuple)
