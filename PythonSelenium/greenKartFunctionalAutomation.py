@@ -8,7 +8,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 Veggies_Selected = []  # Declaring the empty string to fetch the Product Names from search
 Veggies_inCart = []  # Declaring the empty string to fetch the Product Names in Cart
-service_obj = Service("C:/Abhishek  _Mishra _D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
+service_obj = Service("C:/Your_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
 driver = webdriver.Chrome(service=service_obj)
 driver.get("https://rahulshettyacademy.com/seleniumPractise/#/")
 # driver.implicitly_wait(5)
