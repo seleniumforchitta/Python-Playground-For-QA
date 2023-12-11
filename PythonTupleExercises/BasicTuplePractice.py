@@ -1,0 +1,6 @@
+a = (23, 23, 34, 45, 56, 0, 6000)
+print(a)
+print(a.index(23))
+print(a.count(23))
+print(len(a))
+print(not a)
