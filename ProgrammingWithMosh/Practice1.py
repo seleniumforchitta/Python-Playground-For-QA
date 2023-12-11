@@ -5,6 +5,6 @@
 # color = sys.stdin.readline()
 # print(name + ' likes ' + color.strip())
 
-name = 'chitta'
+name = 'rama'
 print(name[-1::-len(name)])
 

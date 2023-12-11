@@ -1,7 +1,7 @@
 import json
 book = {}
-book['Chitta'] = {
-    'name': 'Chitta',
+book['rama'] = {
+    'name': 'rama',
     'address': 'Bangalore, Karnataka',
     'phone': 9898989898
 }
@@ -14,6 +14,6 @@ s = json.dumps(book)
 print(s)
 print(type(s))
 
-with open("C:/Users/chitt/OneDrive/Desktop/a.txt", "w") as f:
+with open("C:/Users/ram/OneDrive/Desktop/a.txt", "w") as f:
     f.write(s)
 

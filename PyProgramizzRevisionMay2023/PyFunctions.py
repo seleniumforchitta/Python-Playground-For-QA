@@ -2,7 +2,7 @@ from math import sqrt
 
 
 def greet():
-    print("Hello Chittaranjan")
+    print("Hello ramaranjan")
 
 
 def summ(a=5, b=6):

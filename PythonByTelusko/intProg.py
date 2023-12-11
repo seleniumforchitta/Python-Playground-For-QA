@@ -18,7 +18,7 @@ for i in names:
 
 print(names1)
 
-a = "Chittaranjan Swain is a good boy"
+a = "ramaranjan Swain is a good boy"
 b = a[0]
 for i in a:
     if i not in b:

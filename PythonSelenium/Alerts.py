@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
-validateText = "Chitta"
-service_obj = Service("C:/CHITTARANJAN _SWAIN_D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
+validateText = "rama"
+service_obj = Service("C:/ramARANJAN _SWAIN_D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
 driver = webdriver.Chrome(service=service_obj)
 driver.get("https://rahulshettyacademy.com/AutomationPractice/")
 driver.maximize_window()

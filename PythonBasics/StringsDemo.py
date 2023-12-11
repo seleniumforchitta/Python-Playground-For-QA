@@ -1,6 +1,6 @@
-str = "Chittaranjan Swain"
+str = "ramaranjan Swain"
 str1 = "is a good boy"
-str2 = "Chitta"
+str2 = "rama"
 
 print(str[1])
 print(str[0:6])

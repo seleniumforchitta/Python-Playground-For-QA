@@ -1,4 +1,4 @@
-name = 'Chittaranjan'
+name = 'ramaranjan'
 mylist = []
 for i in name:
     mylist.append(i)

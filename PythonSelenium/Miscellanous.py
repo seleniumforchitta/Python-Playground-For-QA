@@ -6,7 +6,7 @@ from selenium.webdriver.common import window
 chrome_Options = webdriver.ChromeOptions()
 chrome_Options.add_argument("headless")
 
-service_obj = Service("C:/CHITTARANJAN _SWAIN_D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
+service_obj = Service("C:/ramARANJAN _SWAIN_D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
 driver = webdriver.Chrome(service=service_obj,options=chrome_Options)
 driver.implicitly_wait(2)
 

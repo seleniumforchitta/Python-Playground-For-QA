@@ -5,13 +5,13 @@ am a multi line comment """
 
 # Python is a type-inferred language, so you don't have to explicitly define the variable type
 
-a, b, c = 2, 5, "Chitta"
+a, b, c = 2, 5, "rama"
 
 mylist = [2, 3, 4, 5, 6]
 mytuple = (2, 3, 4, 5, 7)
 mydict = {1: 3, 2: 34, 3: 45, 4: 56}
 myset = {2, 3, 4, 4, 5, 6}
-mystr = "Chittaranjan Swain"
+mystr = "ramaranjan Swain"
 
 print(mylist)
 print(mytuple)

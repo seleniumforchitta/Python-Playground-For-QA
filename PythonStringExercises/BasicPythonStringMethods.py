@@ -1,4 +1,4 @@
-a = " Chittaranjan Swain  "
+a = " ramaranjan Swain  "
 
 for i in a:
     print(i)

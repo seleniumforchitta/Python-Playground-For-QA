@@ -1,4 +1,4 @@
-str = "Chittaranjan Swain"
+str = "ramaranjan Swain"
 str1 = ""
 for i in str:
     if i not in str1:

@@ -10,7 +10,7 @@ c = [1, 2, 3, 4, "kuch", "bhi"]
 print(type(c), c)
 print(c[-1::-1])
 print(c[0:len(c):1])
-c.insert(1, "chitta")
+c.insert(1, "rama")
 print(c)
 c.append(33)
 c.append(b)

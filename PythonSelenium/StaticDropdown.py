@@ -3,13 +3,13 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
-service_obj = Service("C:/CHITTARANJAN _SWAIN_D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
+service_obj = Service("C:/ramARANJAN _SWAIN_D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
 driver = webdriver.Chrome(service=service_obj)
 driver.get("https://www.rahulshettyacademy.com/angularpractice/")
 driver.maximize_window()
-# driver.find_element_by_name("name").send_keys("Chittaranjan Swain")
-driver.find_element(By.CSS_SELECTOR, "input[name='name']:nth-child(2)").send_keys("Chittaranjan Swain")
-driver.find_element(By.NAME, "email").send_keys("seleniumforchitta@gmail.com")
+# driver.find_element_by_name("name").send_keys("ramaranjan Swain")
+driver.find_element(By.CSS_SELECTOR, "input[name='name']:nth-child(2)").send_keys("ramaranjan Swain")
+driver.find_element(By.NAME, "email").send_keys("seleniumforrama@gmail.com")
 driver.find_element(By.ID, "exampleInputPassword1").send_keys("Hanuman@123")
 # select class provide the methods to handle the options in dropdown.
 dropdown = Select(driver.find_element(By.ID, "exampleFormControlSelect1"))

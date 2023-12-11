@@ -3,7 +3,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
-service_obj = Service("C:/CHITTARANJAN _SWAIN_D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
+service_obj = Service("C:/ramARANJAN _SWAIN_D_Drive/STUDY/Software/WebDrivers/chromedriver.exe")
 driver = webdriver.Chrome(service=service_obj)
 driver.implicitly_wait(2)
 driver.get("https://rahulshettyacademy.com/AutomationPractice/")

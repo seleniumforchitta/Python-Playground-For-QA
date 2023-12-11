@@ -1,4 +1,4 @@
-name = "Chitta Ranjan Swain"
+name = "rama Ranjan Swain"
 words = name.split(' ')
 newName = ""
 for i in range(len(words) - 1, -1, -1):

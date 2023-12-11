@@ -7,14 +7,14 @@
 2022-10-16 19:35:34,337 :WARNING :PyTestDemo.test_logging :A warning statement is executed.
 2022-10-16 19:35:34,337 :ERROR :PyTestDemo.test_logging :This is an error message.
 2022-10-16 19:35:34,338 :CRITICAL :PyTestDemo.test_logging :This is a critical issue.
-2022-10-16 19:43:45,001 :INFO :PyTestDemo.BaseClass :['Chitta', 'Ranjan', 'Google.com']
-2022-10-16 19:43:45,002 :INFO :PyTestDemo.BaseClass :Chitta
+2022-10-16 19:43:45,001 :INFO :PyTestDemo.BaseClass :['rama', 'Ranjan', 'Google.com']
+2022-10-16 19:43:45,002 :INFO :PyTestDemo.BaseClass :rama
 2022-10-16 19:43:45,002 :INFO :PyTestDemo.BaseClass :Google.com
-2022-10-16 19:46:33,051 :INFO :test_editProfile :['Chitta', 'Ranjan', 'Google.com']
-2022-10-16 19:46:33,051 :INFO :test_editProfile :Chitta
+2022-10-16 19:46:33,051 :INFO :test_editProfile :['rama', 'Ranjan', 'Google.com']
+2022-10-16 19:46:33,051 :INFO :test_editProfile :rama
 2022-10-16 19:46:33,051 :INFO :test_editProfile :Google.com
-2022-10-16 19:50:01,505 :INFO :test_editProfile :['Chitta', 'Ranjan', 'Google.com']
-2022-10-16 19:50:01,505 :INFO :test_editProfile :Chitta
+2022-10-16 19:50:01,505 :INFO :test_editProfile :['rama', 'Ranjan', 'Google.com']
+2022-10-16 19:50:01,505 :INFO :test_editProfile :rama
 2022-10-16 19:50:01,505 :INFO :test_editProfile :Google.com
 2022-10-16 19:50:01,527 :DEBUG :PyTestDemo.test_logging :A debug statement is executed.
 2022-10-16 19:50:01,527 :INFO :PyTestDemo.test_logging :An info statement is executed.
