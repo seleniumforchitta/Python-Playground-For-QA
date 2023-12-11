@@ -24,4 +24,4 @@ cd Python-Playground-For-QA
 
 Join us in building a vibrant QA automation community. Let's elevate our skills together in this Python Playground.
 
-Happy Coding!
+Happy Coding! Thanks
